@@ -1,4 +1,5 @@
 f=open("automat.in","r")
+# & tine locul lui lambda
 w=f.readline()
 tstr=int(f.readline())
 strin=int(f.readline())
